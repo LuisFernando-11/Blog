@@ -11,3 +11,10 @@ body{
 #container h1 {
     font-weight: bold;
 }
+#cabecera {
+    background-color: #325191;
+    color: #FFFFFF;
+    padding: 30px 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
